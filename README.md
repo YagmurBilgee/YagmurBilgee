@@ -55,20 +55,15 @@
 ### 🌐 Bana Ulaşın
 
 <p align="center">
+  <a href="https://www.instagram.com/ygmrbilg" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/yagmur-bilge-akkose-9b1b63256" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yagmurbilgeak@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/yagmurbilgee" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!-- Twitter linkin varsa aşağıdaki satırın başındaki <!-- ve sonundaki --> işaretlerini kaldırıp kullanıcı adını gir
-  <a href="https://twitter.com/KULLANICI_ADIN" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  -->
 </p>
 
 ---
