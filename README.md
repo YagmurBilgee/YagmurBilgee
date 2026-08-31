@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="400" alt="welcome gif"/>
+  <img src="GIF_LINKINI_BURAYA_YAPISTIR" width="400" alt="welcome gif"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ### 🌐 Bana Ulaşın
 
 <p align="center">
-  <a href="https://www.instagram.com/ygmrbilg" target="_blank">
+  <a href="https://www.instagram.com/KULLANICI_ADIN" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yagmur-bilge-akkose-9b1b63256" target="_blank">
