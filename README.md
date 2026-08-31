@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="[GIF_LINKINI_BURAYA_YAPISTIR](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l0eXB3YXg0NWc4bzRjdjdreGV2NTkwajJrenRwc3d5OTgzb285NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif)" width="400" alt="welcome gif"/>
+  <img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3l0eXB3YXg0NWc4bzRjdjdreGV2NTkwajJrenRwc3d5OTgzb285NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif)" width="400" alt="welcome gif"/>
 </p>
 
 ---
